@@ -12,7 +12,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <jboss.fuse.bom.version>6.3.0.redhat-446</jboss.fuse.bom.version>
-    <amq.version>5.11.0.redhat-630446</amq.version>
+    <amq.version>5.16.0</amq.version>
 	<camel.version>2.17.0.redhat-630446</camel.version>
 	<!-- since Java 11 -->
     <javax.activation.version>1.2.0</javax.activation.version>
